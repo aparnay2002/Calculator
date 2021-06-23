@@ -1,4 +1,4 @@
-<script>
+
 	function sin(){
 	document.calcul.result.value=Math.sin(document.calcul.result.value);
 	}
@@ -43,4 +43,3 @@
 	function equal(){
 	document.calcul.result.value=eval(document.calcul.result.value);
 	}
-</script>
